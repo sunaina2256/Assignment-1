@@ -1,0 +1,30 @@
+table{
+  height:250;
+  width: 250;
+  border-style: none;
+
+}
+thead{
+  background-color: black;
+  color: red;
+  font-style: bold;
+}
+tbody{
+  
+  font-style:italic;
+  background-color: black;
+  color:aqua;
+  text-align: center;
+}
+caption{
+  color: aqua;
+  font-size: 50;
+  font-style: bold;
+}
+.Main{
+  border:none;
+  color:none;
+}
+body{
+  background-color: black;
+}
